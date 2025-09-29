@@ -14,16 +14,13 @@ Built an interactive dashboard with multi-page navigation (Overview, Insights, P
 
 ## 📊 Dashboard Structure  
 ### 1. Overview Page  
-Provides a high-level summary of sales and product metrics.  
-![Overview Screenshot](screenshots/overview.png)  
+Provides a high-level summary of sales and product metrics.    
 
 ### 2. Insights Page  
-Presents detailed analysis of sales trends, comparisons, and insights.  
-![Insights Screenshot](screenshots/insights.png)  
+Presents detailed analysis of sales trends, comparisons, and insights.    
 
 ### 3. Performance Page  
 Displays regional performance, time-based trends, and overall impact.  
-![Performance Screenshot](screenshots/performance.png)  
 
 ## 🎯 Learning Outcomes  
 - Applied advanced **navigation features** in Power BI, including bookmarks and buttons.  
